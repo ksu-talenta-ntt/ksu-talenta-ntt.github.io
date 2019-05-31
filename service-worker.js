@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/ksu-talenta-ntt/precache-manifest.d15425ae4b87b93faa53e8e225b20dd5.js"
+  "/precache-manifest.0fcb6d72b031245aa13a503fab6cc62b.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "vue-ksu"});
