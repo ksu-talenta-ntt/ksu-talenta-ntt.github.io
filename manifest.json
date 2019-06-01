@@ -1,6 +1,6 @@
 {
-  "name": "vue-ksu",
-  "short_name": "vue-ksu",
+  "name": "KSU Talenta",
+  "short_name": "ksu-talenta",
   "icons": [
     {
       "src": "./img/icons/android-chrome-192x192.png",
